@@ -1,0 +1,1 @@
+MYSQLI_EXECUTE: Cannot add or update a child row: a foreign key constraint fails (`watchlist`.`movie`, CONSTRAINT `movie_ibfk_1` FOREIGN KEY (`genre_id`) REFERENCES `genre` (`genre_id`))
